@@ -1,0 +1,25 @@
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\databaseTeszt.exe.config
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\databaseTeszt.exe
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\databaseTeszt.pdb
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\MySql.Data.dll
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\Google.Protobuf.dll
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\bin\Debug\MySql.Data.xml
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.Properties.Resources.resources
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.csproj.CopyComplete
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.exe
+C:\Users\Max\source\repos\databaseTeszt\databaseTeszt\obj\Debug\databaseTeszt.pdb
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\bin\Debug\databaseTeszt.exe.config
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\bin\Debug\databaseTeszt.exe
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\bin\Debug\databaseTeszt.pdb
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\bin\Debug\Google.Protobuf.dll
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\bin\Debug\MySql.Data.xml
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.Properties.Resources.resources
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.csproj.CopyComplete
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.exe
+C:\Users\Max\Desktop\Stage Documenten\Database\databaseTeszt\obj\Debug\databaseTeszt.pdb
